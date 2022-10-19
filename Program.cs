@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello,GOT !");
+Console.WriteLine("Hello,Masterbranch !");
 
-Console.WriteLine("Hello,MasterBranch");
+Console.WriteLine("Hello,Masterbranch");
